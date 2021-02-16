@@ -11,7 +11,7 @@ Our example repo is supposed to help new members of the AutoFlow team to get up 
 Features
 --------
 
-#. :doc:`.circleci <../.circleci>` 
+#. .circleci
 #. /docs
 #. /example_repo
 #. /examples
