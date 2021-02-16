@@ -11,7 +11,7 @@ Our example repo is supposed to help new members of the AutoFlow team to get up 
 Features
 --------
 
-#. .circleci
+#. :doc:`.circleci <../.circleci>` 
 #. /docs
 #. /example_repo
 #. /examples
@@ -26,7 +26,7 @@ Features
 
 Contributing to the example_repo
 --------------------------------
-Contact Matthias (matmat@biosustain.dtu.dk) or Ricardo (riheme@biosustain.dtu.dk) or raise an issue on GitHub.
+Contact Matthias (matmat(at)biosustain.dtu.dk) or Ricardo (riheme(at)biosustain.dtu.dk) or raise an issue on GitHub.
 
 
 
