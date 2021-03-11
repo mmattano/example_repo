@@ -1,0 +1,3 @@
+.field-list dl dt, .field-list dl dd {
+    text-transform: none !important;
+}
